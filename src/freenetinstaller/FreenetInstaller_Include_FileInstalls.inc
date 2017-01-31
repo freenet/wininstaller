@@ -16,7 +16,7 @@ FileInstall, ..\..\res\install_node\freenet.ico,			%_InstallDir%\freenet.ico
 FileInstall, ..\..\res\install_node\freenetoffline.ico,			%_InstallDir%\freenetoffline.ico
 FileInstall, ..\..\res\install_node\freenet.jar,			%_InstallDir%\freenet.jar
 FileInstall, ..\..\res\install_node\freenet-ext.jar,			%_InstallDir%\freenet-ext.jar
-FileInstall, ..\..\res\install_node\bcprov-jdk15on-149.jar,		%_InstallDir%\bcprov-jdk15on-149.jar
+FileInstall, ..\..\res\install_node\bcprov-jdk15on-154.jar,		%_InstallDir%\bcprov-jdk15on-154.jar
 FileInstall, ..\..\res\install_node\freenet.exe,			%_InstallDir%\freenet.exe
 FileInstall, ..\..\res\install_node\freenetlauncher.exe,		%_InstallDir%\freenetlauncher.exe
 FileInstall, ..\..\res\install_node\freenetuninstaller.exe,		%_InstallDir%\freenetuninstaller.exe

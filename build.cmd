@@ -45,6 +45,7 @@ echo + Copying files into bin folder...
 
 copy ..\res\tool_ahk\Ahk2Exe.exe Ahk2Exe.exe
 copy ..\res\tool_ahk\AutoHotkeySC.bin AutoHotkeySC.bin
+copy "..\res\tool_ahk\Unicode 32-bit.bin" "Unicode 32-bit.bin"
 
 copy ..\res\tool_reshacker\ResHacker.exe ResHacker.exe
 copy ..\res\tool_reshacker\ResHack_Resource_Icon_Freenet.ico ResHack_Resource_Icon_Freenet.ico
